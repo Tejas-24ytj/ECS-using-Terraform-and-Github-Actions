@@ -116,6 +116,13 @@ After successful deployment:
 4. Find the **Public IP** in the Configuration section
 5. Open the IP address in your browser
 
+## 📷 Screenshots 
+
+![Image](https://github.com/user-attachments/assets/90737ba7-c279-4b38-bbcd-a24c81f4c912)
+
+![Image](https://github.com/user-attachments/assets/e92601ef-b2c8-4832-9443-2dc86b47730a)
+
+
 ## 📋 Terraform Configuration
 
 ### Variables (terraform/variables.tf):
