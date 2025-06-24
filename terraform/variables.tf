@@ -5,7 +5,7 @@ variable "aws_region" {
 }
 
 variable "project_name" {
-  description = "Project name to be used for tagging"
+  description = "Project name to be used for tagging of resource"
   type        = string
   default     = "hello-world"
 }
